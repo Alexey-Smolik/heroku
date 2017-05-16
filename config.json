@@ -12,10 +12,10 @@
 
   "prod": {
 
-    "host": "ec2-54-163-234-20.compute-1.amazonaws.com",
-    "name": "d8e579to8e8vdm",
-    "user": "bjjgkgcrynsuud",
-    "password": "015c59290377d8fb8efcee4f1798b4514839b4f874756e099ad994b4dd32b8d9",
+    "host": "ec2-184-73-236-170.compute-1.amazonaws.com",
+    "name": "dc9mlci7l87i1p",
+    "user": "iyfagavknksnzg",
+    "password": "49254f17ee34b214ba68f867cb190a0619f239ce9c2f36665a53459c7c08da16",
     "dialect": "postgres"
 
   },
