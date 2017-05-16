@@ -1,11 +1,35 @@
 {
   "name": "heroku",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.9",
+    "lodash": "^4.16.4",
+    "mysql": "^2.11.1",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.1.0",
+    "pg": "^6.1.5",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.24.1"
+  },
+  "devDependencies": {
+    "siege": "^0.2.0"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leshutic/heroku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Leshutic/heroku/issues"
+  },
+  "homepage": "https://github.com/Leshutic/heroku#readme",
+  "description": ""
 }
